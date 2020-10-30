@@ -29,4 +29,4 @@ outputs:
     description: The version, as defined in the source file.
 runs:
   using: 'node12'
-  main: 'main.js'
+  main: 'main.cjs'
